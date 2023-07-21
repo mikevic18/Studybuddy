@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Studybuddy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+    <string name="lectureIcon">Lecture Icon</string>
+    <string name="lectureDuration">Lecture Duration</string>
+    <string name="lectureTitle">Lecture Title</string>
+    <string name="topic_title">Topic Title</string>
+    <string name="home">Home</string>
+    <string name="lectures">Lectures</string>
+    <string name="settings">Settings</string>
+</resources>

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Lecture 1",
+    "imageUrl": "https://example.com/image1.jpg",
+    "duration": "30 min",
+    "topics": [
+      {
+        "title": "Topic 15"
+      },
+      {
+        "title": "Topic 75"
+      }
+    ]
+  },
+  {
+    "title": "Lecture 2",
+    "imageUrl": "https://example.com/image2.jpg",
+    "duration": "45 min",
+    "topics": [
+      {
+        "title": "Topic 5"
+      },
+      {
+        "title": "Topic 6"
+      },
+      {
+        "title": "Topic 3"
+      }
+    ]
+  }
+]
